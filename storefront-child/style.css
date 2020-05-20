@@ -3,3 +3,11 @@ Theme Name:   storefront child
 Template:     storefront
 
 */
+.storefront-breadcrumb,.menu-toggle{
+	visibility:hidden;
+}
+
+
+.woocommerce-products-header__title{
+	color:white
+}
